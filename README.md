@@ -17,11 +17,10 @@ Les sources sont organisés de la manière suivante :
       - *conversion_data_train.csv* : données brutes pour cet exercice
       - *Projet_Conversion_rate_EDA.ipynb* : Notebook d'exploration des données (contient les consignes Jedha du projet)
       - *Projet_Conversion_rate_models.ipynb* : Notebook de run des modèles de classification 
- - *Unsupervised_ML* : 
+ - *Unsupervised_ML* : projet de clustering de données spatiales
    - *Uber* : 
      - *Projet_Uber_EDA.ipynb* : Notebook d'exploration des données (contient les consignes Jedha du projet)
      - *Projet_Uber_models.ipynb* : Notebook d'exploration des données et de run des modèles 
-     - *uber-trip-data* : contient les fichiers de données brutes pour cet exercice
 
 
 ## Environnement local
